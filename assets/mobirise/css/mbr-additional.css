@@ -1481,32 +1481,6 @@ section.lazy-placeholder:after {
 .cid-rOKyC5zurm .mbr-section-btn {
   color: #767676;
 }
-.cid-rOLvkAO3bY .google-map {
-  height: 34rem;
-  position: relative;
-}
-.cid-rOLvkAO3bY .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rOLvkAO3bY .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rOLvkAO3bY .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rOLvkAO3bY .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
 .cid-rOUQ5PsnQc {
   padding-top: 0px;
   padding-bottom: 75px;
