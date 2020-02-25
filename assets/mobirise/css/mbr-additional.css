@@ -1920,6 +1920,54 @@ section.lazy-placeholder:after {
 .cid-rR9e4ANwF5 H3 {
   color: #716c80;
 }
+.cid-rRwbNHbdkf {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/mbr-1.jpg");
+}
+.cid-rRwbNHbdkf .box {
+  max-width: 700px;
+  margin: auto;
+  padding: 0 3rem;
+}
+.cid-rRwbNHbdkf .btn {
+  padding: 0.4rem 0.6rem;
+  margin: 0.5rem!important;
+  border-radius: 10px!important;
+  letter-spacing: 0px;
+}
+.cid-rRwbNHbdkf .btn:hover,
+.cid-rRwbNHbdkf .btn:active {
+  box-shadow: none!important;
+}
+.cid-rRwbNHbdkf .btn .mbr-iconfont {
+  margin-top: 0.1rem;
+}
+.cid-rRwbNHbdkf .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-rRwbNHbdkf .img-col {
+  padding: 0;
+}
+.cid-rRwbNHbdkf img {
+  max-height: 100vh;
+  object-fit: cover;
+  width: 100%;
+}
+@media (max-width: 992px) {
+  .cid-rRwbNHbdkf .box {
+    padding: 2rem;
+    max-width: 100%;
+  }
+}
+@media (max-width: 576px) {
+  .cid-rRwbNHbdkf .box {
+    padding: 1rem;
+  }
+}
+.cid-rRwbNHbdkf .mbr-section-title {
+  color: #57468b;
+}
 .cid-rRln4UqoiY {
   padding-top: 45px;
   padding-bottom: 0px;
