@@ -1187,7 +1187,7 @@ section.lazy-placeholder:after {
   border-bottom-left-radius: 0;
 }
 .cid-rOKyAEZPie .card-wrapper .card-img .mbr-overlay {
-  background: #a38dfd;
+  background: #ff0f00;
   display: block;
   opacity: 0;
   transition: all .3s;
@@ -1204,7 +1204,7 @@ section.lazy-placeholder:after {
   margin: auto;
 }
 .cid-rOKyAEZPie .card-wrapper .card-box {
-  background-color: #5580ff;
+  background-color: #ff0f00;
   padding: 0 2rem 2rem 2rem;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
@@ -1217,7 +1217,6 @@ section.lazy-placeholder:after {
 .cid-rOKyAEZPie .card-wrapper .card-box p {
   margin-bottom: 0;
   padding-top: 1.5rem;
-  padding-top: 2rem;
 }
 .cid-rOKyAEZPie .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
