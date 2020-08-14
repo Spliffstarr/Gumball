@@ -1097,7 +1097,7 @@ section.lazy-placeholder:after {
 }
 .cid-s7DMNJmiP0 .mbr-text {
   text-align: center;
-  color: #ffed00;
+  color: #000000;
 }
 .cid-s7DMNJmiP0 .pt-0 {
   padding-top: 0 !important;
@@ -1164,7 +1164,7 @@ section.lazy-placeholder:after {
   content: "";
 }
 .cid-s7DMNJmiP0 .modal-content {
-  background: #000000;
+  background: #ffed00;
   position: relative;
   display: flex;
   -ms-flex-direction: column;
